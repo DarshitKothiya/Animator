@@ -1,16 +1,12 @@
-# animator
+# BMI_calc_animation
 
 A new Flutter project.
 
-## Getting Started
-
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src='https://user-images.githubusercontent.com/113766592/204100970-d1610553-a598-4123-9da6-ad0667a5a27c.mp4' style='height:500px'>
+<img src='https://user-images.githubusercontent.com/113766592/204100924-fc5810dc-405c-4e8d-b6b6-31b997e5c15b.jpeg' style='height:500px'>!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
